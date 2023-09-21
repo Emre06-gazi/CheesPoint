@@ -83,7 +83,7 @@ namespace strnc
                 }
             }
 
-            // Toplam puanı iletişim penceresine ekleyin
+            // Toplam puanı iletişim penceresine ekle.
             message += $"\nToplam Puan: {points}";
 
             MessageBox.Show(message, "Hesaplama Sonucu", MessageBoxButtons.OK, MessageBoxIcon.Information);

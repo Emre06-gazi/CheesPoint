@@ -1,0 +1,10 @@
+C:\Users\emre_\OneDrive\Masaüstü\strnc\strnc\bin\Debug\strnc.exe.config
+C:\Users\emre_\OneDrive\Masaüstü\strnc\strnc\bin\Debug\strnc.exe
+C:\Users\emre_\OneDrive\Masaüstü\strnc\strnc\bin\Debug\strnc.pdb
+C:\Users\emre_\OneDrive\Masaüstü\strnc\strnc\obj\Debug\strnc.csproj.AssemblyReference.cache
+C:\Users\emre_\OneDrive\Masaüstü\strnc\strnc\obj\Debug\strnc.Form1.resources
+C:\Users\emre_\OneDrive\Masaüstü\strnc\strnc\obj\Debug\strnc.Properties.Resources.resources
+C:\Users\emre_\OneDrive\Masaüstü\strnc\strnc\obj\Debug\strnc.csproj.GenerateResource.cache
+C:\Users\emre_\OneDrive\Masaüstü\strnc\strnc\obj\Debug\strnc.csproj.CoreCompileInputs.cache
+C:\Users\emre_\OneDrive\Masaüstü\strnc\strnc\obj\Debug\strnc.exe
+C:\Users\emre_\OneDrive\Masaüstü\strnc\strnc\obj\Debug\strnc.pdb
